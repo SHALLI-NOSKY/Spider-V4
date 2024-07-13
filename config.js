@@ -23,14 +23,14 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['£']
-global.owner = ['2347015667458']
-global.ownMain = '2347015667458'
+global.owner = ['2349120730021']
+global.ownMain = '2349120730021'
 global.NamaOwner = '𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞  ☢︎  𝖌𝖗𝖊𝖞 🕊️' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞 𝕭𝖔𝖙' //ganti aj klo mau
-global.author = '𝕸𝖆𝖘𝖙𝖊𝖗 𝕺𝖔𝖌𝖜𝖆𝖞' //ganti aj klo mau
-global.packname = '𝕭𝖊𝖑𝖔𝖓𝖌𝖘 𝖙𝖔' //ganti aj klo mau
+global.namabot = '𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●' //ganti aj klo mau
+global.author = '𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●' //ganti aj klo mau
+global.packname = '𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●' //ganti aj klo mau
 global.yt = 'https://chat.whatsapp.com/BtMW59TPpqeEuAOfPn3UHg' //gausah diganti
 
 //===========================//
@@ -151,8 +151,8 @@ premium: '𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑�
 seller: 'Lu bukan seller, Jadi gabakal bisa make😹',
 usingsetpp: '𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕 🤓',
 wait: '*🕙𝚆𝚊𝚒𝚝 𝚊𝚜 𝙸 𝚙𝚛𝚘𝚌𝚌𝚎𝚜 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚎𝚜𝚝🗿*',
-succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 𝙳𝚎𝚖𝚘𝚗 𝚂𝚙𝚒𝚍𝚎𝚛🗿🚬',
-bugrespon: `✅𝙿𝚛𝚘𝚌𝚌𝚎𝚜𝚒𝚗𝚐🕷️`
+succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 𝙳𝚎𝚖𝚘𝚗 Maxwell🗿🚬',
+bugrespon: `⚡⚡𝙿𝚛𝚘𝚌𝚌𝚎𝚜𝚒𝚗𝚐🕷️`
 }
 
 //===========================//
